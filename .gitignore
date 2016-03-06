@@ -1,0 +1,17 @@
+#Ignore typings
+typings/
+
+#Ignore all ndoe_modules
+node_modules/
+
+#Ignore bower_components
+bower_components/
+
+#Ignore dist, this is only used in production deployment
+dist/
+
+#Ignore temp as it is not importnat..?
+.tmp
+
+#DS_store is duh not so important store
+.DS_Store
